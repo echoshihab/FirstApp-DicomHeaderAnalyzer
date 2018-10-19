@@ -3,4 +3,9 @@ Simple Django App to reveal few key header information using pydicom
   -Simple app that can take an uploaded dicom file, process and return key dicom headers on another page
   -Uploading a non-DICOM file will return a "Invalid File" error 
 
-Python Package required: pydicom
+Python verison: Python 3.7.0
+Packages required:
+  -pydicom 1.2.0
+  -Django 2.1.2
+
+
